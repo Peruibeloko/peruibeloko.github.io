@@ -1,0 +1,1 @@
+import{t as r,P as a}from"./entry.cef7a4e4.js";const n={__name:"[month]",setup(e){return(o,t)=>" Month listing for "+r((o._.provides[a]||o.$route).params.month)+" of "+r((o._.provides[a]||o.$route).params.year)}};export{n as default};

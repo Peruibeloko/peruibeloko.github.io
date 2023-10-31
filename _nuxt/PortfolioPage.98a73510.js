@@ -1,1 +1,0 @@
-import{k as n,b as s,c as t,e as o,A as r,F as a}from"./entry.96882eb5.js";const l={};function c(e,f){return s(),t(a,null,[o("header",null,[r(e.$slots,"header")]),o("main",null,[r(e.$slots,"content")]),o("footer",null,[r(e.$slots,"footer")])],64)}const u=n(l,[["render",c]]);export{u as default};

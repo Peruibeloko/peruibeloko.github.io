@@ -1,1 +1,0 @@
-import{k as s,c as o,b as t,e}from"./entry.96882eb5.js";const c={},n=e("h1",null,"Blag",-1),_=e("h2",null,"Eu escrevo sobre tópicos sortidos. Desconfie de tudo, não duvide de nada.",-1),r=[n,_];function d(a,l){return t(),o("header",null,r)}const u=s(c,[["render",d]]);export{u as default};

@@ -1,1 +1,0 @@
-import{k as t,b as o,c as r,J as n}from"./entry.c4ae60a3.js";const s={},c={class:"entry-card"};function _(e,a){return o(),r("article",c,[n(e.$slots,"default")])}const f=t(s,[["render",_]]);export{f as default};
